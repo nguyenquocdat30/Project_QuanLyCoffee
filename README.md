@@ -8,6 +8,6 @@ Khao sat hien trang </br>
 Phan tich thiet ke he thong </br>
 Cai dat phan mem </br>
 ----------------------------------------</br>
-C# Winform application
-IDEs : Visual studio 2015
-Database : MS SQL Server
+C# Winform application </br>
+IDEs : Visual studio 2015 </br>
+Database : MS SQL Server </br>
