@@ -7,3 +7,7 @@ Qua Trinh Thuc Hien : </br>
 Khao sat hien trang </br>
 Phan tich thiet ke he thong </br>
 Cai dat phan mem </br>
+----------------------------------------</br>
+C# Winform application
+IDEs : Visual studio 2015
+Database : MS SQL Server
